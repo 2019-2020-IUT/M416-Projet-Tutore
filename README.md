@@ -25,5 +25,5 @@ Retrouvez vos enregistrements dans le dossier "output".
 + Nortier Hugo
 + Novicki Johann
 + Poissonier Hugo
-+ Srifi José
++ Srifi Pauline
 + Vesnat Jules
